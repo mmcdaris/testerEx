@@ -1,1 +1,7 @@
-api-key: 6715fdfb24114a08116134080b0435b1fcaa0597
+development:
+  enabled:true
+  api-key:6715fdfb24114a08116134080b0435b1fcaa0597
+
+production:
+  enabled:true
+  api-key:6715fdfb24114a08116134080b0435b1fcaa0597
